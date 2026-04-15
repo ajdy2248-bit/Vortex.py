@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+futures
+pyTelegramBotAPI
+urllib3
+certifi
+idna
